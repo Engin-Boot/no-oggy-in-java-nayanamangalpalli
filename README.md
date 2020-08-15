@@ -7,6 +7,6 @@ This program intends to remove strings containing 'oggy' from a list of strings.
 
 ## Method
 
-The code doesn't work according to the intention. Make it succeed.
+The method copies values except oggy to new list.
 
-Don't forget to update this file after fixing the code.
+To make changes global new list replaces old one.
