@@ -13,6 +13,6 @@ The remover method has given list of strings as an input.
 
 Output of method is to remove string starting with oggy from list.
 
-In order to do it a method copies values except oggy to new list.
+A method copies strings except that starts with oggy to new list.
 
 To make changes global new list replaces old one.
