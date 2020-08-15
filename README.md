@@ -9,6 +9,10 @@ This program intends to remove strings containing 'oggy' from a list of strings.
 
 ## Method
 
-The method copies values except oggy to new list.
+The remover method has given list of strings as an input.
+
+Output of method is to remove string starting with oggy from list.
+
+In order to remove oggy from list of strings a method copies values except oggy to new list.
 
 To make changes global new list replaces old one.
